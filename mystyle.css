@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+}
+#table {
+    width: 970px;
+    
+}
+h1 {
+    color: indigo;
+    
+}
+#background {
+    background-image: url(myBackground.jpg);
+}
+#running {
+    float: left;
+    margin-right: 10px;
+}
+#family {
+    text-align: left;
+    margin-right: 1200px;
+}
